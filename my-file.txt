@@ -1,1 +1,5 @@
 My test file for the bootcamp is this file.
+
+i'm adding some cool stuff.
+
+this git branching stuff is both new and confusing.
